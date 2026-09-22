@@ -33,10 +33,12 @@ Results
 You should sometimes send a one-eye! 
 
 If you know your opponent *isn't* sending a one-eye (e.g. you are playing vs Feinberg), you should send it if:
+
     - You are behind by between 1.75 and 24.35 seconds.
 At most, when you are 9.8s behind, your win probability increases by 2.65% from 40.81% to 43.46%.
 
 If you know your opponent *is* sending a one-eye (e.g. when playing ANJOUU), you should send it too if:
+
     - You are ahead by between 1.75 and 24.35 seconds. 
 
 When you don't know whether your opponent is or isn't sending a one-eye it get's a bit more complicated. See the game-theretic solution below. 
