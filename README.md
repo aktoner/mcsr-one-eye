@@ -6,6 +6,7 @@ Skip to conclusion if you only want my thoughts on how you should play your game
 Scenario
 ---------
 The situation I attempted to model here is the following: 
+
     - You are in the nether fortress, at a (cleared) spawner
     - You have 11 blaze powder
     - You just killed a cycle of freshly spawned blazes
